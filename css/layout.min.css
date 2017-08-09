@@ -169,3 +169,10 @@ li a {
     text-decoration: none;
     color: #ee3643;
 }
+figure.map {
+    position: relative;
+    overflow: hidden;
+    width: 1200px;
+    height: 593px;
+    background: url("../img/sedona_map.jpg") no-repeat;
+}
